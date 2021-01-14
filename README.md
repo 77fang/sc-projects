@@ -6,6 +6,6 @@ Watch my *[DEMO VIDEOS](https://drive.google.com/drive/folders/1pz5ZPPIiKLYkd9jk
 
 # Project Source Codes:
 [Breakout Game](https://github.com/77fang/sc-projects/tree/main/breakout_game)\
-  * animation & game designing\
+  * animation & game designing
 [Baby Names Visualization](https://github.com/77fang/sc-projects/tree/main/baby_names_visualization)\
   * data structure
